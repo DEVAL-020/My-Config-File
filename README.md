@@ -4,6 +4,3 @@ erf
 erf
 er
 ferf
-erf
-erf
-er
