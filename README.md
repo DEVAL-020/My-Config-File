@@ -16,3 +16,12 @@ dshgdsufl hehlivheipr
 dvihELIUFH  IROHR
 DFIUVE  F GIEJRK;
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
+=======
+
+
+fdhadheihijjihjrwguhrihaib
+>>>>>>> Stashed changes
+
+dfjhquehihe9geijgr9heirgirrju9
+>>>>>>> Stashed changes
