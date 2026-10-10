@@ -6,6 +6,7 @@ dvh djfiejfh i  ejhgr
 DFJ FEH RGIH DFIUPH EFKJH
 HJLDFSIUGRBF IUhakjhfijqb
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 cvdqbiu fbjnjb;kn ;fj
 =======
 cvdqbiu fbjnjb;kn ;fj
@@ -15,4 +16,6 @@ fvuifvoqefbvh8u bv
 dshgdsufl hehlivheipr 
 dvihELIUFH  IROHR
 DFIUVE  F GIEJRK;
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
