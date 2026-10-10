@@ -1,5 +1,6 @@
 sdkjvhdfiuh dfiuhvefu9vh
 DSKLVHsidvh eifvnie
+<<<<<<< Updated upstream
 dfvjhadv lj IVJHEF
 sdffdsk; jfh diufhij
 dvh djfiejfh i  ejhgr
@@ -24,4 +25,7 @@ fdhadheihijjihjrwguhrihaib
 >>>>>>> Stashed changes
 
 dfjhquehihe9geijgr9heirgirrju9
+>>>>>>> Stashed changes
+=======
+dfvj
 >>>>>>> Stashed changes
