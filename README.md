@@ -7,6 +7,7 @@ DFJ FEH RGIH DFIUPH EFKJH
 HJLDFSIUGRBF IUhakjhfijqb
 <<<<<<< Updated upstream
 cvdqbiu fbjnjb;kn ;fj
+<<<<<<< Updated upstream
 =======
 cvdqbiu fbjnjb;kn ;fj
 dsjhuehr hdfiuhqiurhuf
@@ -24,4 +25,7 @@ fdhadheihijjihjrwguhrihaib
 >>>>>>> Stashed changes
 
 dfjhquehihe9geijgr9heirgirrju9
+>>>>>>> Stashed changes
+=======
+======
 >>>>>>> Stashed changes
